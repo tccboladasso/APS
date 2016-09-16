@@ -1,0 +1,30 @@
+-TIO
+Desenvolvedor e RUP
+
+-PESSETTI
+Desemvolvedor, pesquisador e Web Services.
+
+-YUDI
+Pesquisador e Formatador
+
+-MASKOTE
+Pesquisador
+
+
+APS Idéia: Desenvolver uma tela de Login para diferenciar Ususario de Administrador.
+Administrador: Cadastra novos usuarios.
+
+Se possivel banco de dados em Web Services.
+Definir informações que serão usadas.
+Aplicação, funcões: Graficos, Comparação de datas/periodos, relatórios o mais abrangente possível.
+
+-Desenvolver um APP para controle de poluição.
+
+-Ferramenta: Eclipse.
+
+-Pesquisa Principal: Informações Ambientais Urbanas.
+
+-Pesquisa para desenvolvimento: Como desenvolver um sistema Distribuido.
+
+
+
